@@ -15,4 +15,4 @@ Este projeto tem como objetivo simular um sistema simples de gerenciamento de cu
 2. Abra o arquivo index.html no navegador
 
 ## Prints da aplicação
-(Coloque imagens na pasta /docs e link aqui)
+C:\Users\gabri\OneDrive\Documentos\GitHub\Aula GTI\Captura de tela 2026-05-09 232711
